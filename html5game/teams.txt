@@ -8,7 +8,7 @@ uid	name	conference	division	colhelmet	colshirt	colpants	coltertiary	tla	defense
 6	Los Angeles C	0	1	$ffffff	$3289f7	$ffffff	$F1D209	LAC	5	7	0	0	0	2	17	0	1
 7	Las Vegas	0	1	$aaaaaa	$000000	$aaaaaa	$000000	L.V	4	8	0	0	0	1	5	0	0
 8	Baltimore	0	2	$161616	$361d7d	$ffffff	$361d7d	BAL	10	7	0	0	0	0	45	19	0
-9	Cincinnati	0	2	$fb4f14	$1a1a1a	$ffffff	$fb4f14	CIN	5	7	0	0	0	80 	80	0
+9	Cincinnati	0	2	$fb4f14	$1a1a1a	$ffffff	$fb4f14	CIN	5	7	0	0	0	50 	30      0 
 10	Cleveland	0	2	$d44200	$4f3531	$FFFFFF	$d44200	CLE	8	9	0	0	0	0	40	61	0
 11	Pittsburgh	0	2	$000000	$222121	$f8e400	$000000	PIT	9	7	0	0	0	0	38	27	0
 12	Houston	0	3	$101843	$17205b	$ffffff	$17205B	HOU	2	2	0	0	0	2	51	0	1
